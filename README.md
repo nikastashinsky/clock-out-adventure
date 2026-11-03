@@ -2,9 +2,9 @@
 
 **A chill, silly, hand-drawn platformer about leaving work at 5:00 PM.**
 
-[![Play on itch.io](https://fxwizeguy.itch.io/clock-out-adventure)
-
 > **Play it in your browser (desktop, keyboard):** https://fxwizeguy.itch.io/clock-out-adventure
+
+[![Clock Out cover](Clock%20out%20game.png)](https://fxwizeguy.itch.io/clock-out-adventure)
 
 
 ## The idea
