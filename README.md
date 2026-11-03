@@ -4,7 +4,7 @@
 
 > **Play it in your browser (desktop, keyboard):** https://fxwizeguy.itch.io/clock-out-adventure
 
-[![Clock Out cover](Clock%20out%20game.png)](https://fxwizeguy.itch.io/clock-out-adventure)
+<img width="1800" height="1800" alt="Clock out game" src="https://github.com/user-attachments/assets/f9bbdaf0-d9f4-4cfc-a397-32128e803f0e" />
 
 
 ## The idea
