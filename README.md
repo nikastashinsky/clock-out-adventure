@@ -1,4 +1,4 @@
-# Clock Out
+# Clock Out Adventure
 
 **A chill, silly, hand-drawn platformer about leaving work at 5:00 PM.**
 
